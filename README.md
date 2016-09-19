@@ -19,5 +19,3 @@
 
    	let url = NBURL("myapp://hello?title=xxx")
     Navigator.open(url)
-    
-怎么样，是不是炒鸡方便啊
